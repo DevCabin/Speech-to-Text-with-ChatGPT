@@ -2,7 +2,6 @@
 
 This Python application combines speech recognition with the power of ChatGPT by OpenAI to convert spoken language into text and generate text-based responses. It provides an interactive and user-friendly interface using Streamlit.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
